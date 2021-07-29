@@ -1,0 +1,95 @@
+﻿<!--/*
+\file:      employeeList
+\author:    Vincent Li
+\purpose:   This is the HTML for the employee js file, it shows all the employees
+*/-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>employee List</title>
+    <meta charset="utf-8" />
+    <link href="lib/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="#">Info3070Exercises</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <!-- the collapse part is when you cant fit the top part on a webpage so it goes into a drop down menu-->
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/employeeLookup.html">Original Lookup</a>
+                </li>
+                <li>
+                    <a class="nav-link active" href="/employeelist.html">employees</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="justify-content-center align-items-center row mt-5 ml-1">
+        <div class="col-12 text-center p-3"><h2>Current employees</h2></div>
+        <div class="list-group col-10" id="employeeList">
+            <!-- employee rows go here-->
+        </div>
+    </div>
+
+    <div class="modal fade text-center" data-backdrop="static" id="theModal">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header d-block text-center">
+                    <!--<button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">-->
+                    <!-- The data-dismiss knows to destroy the modal once the button is clicked-->
+                    <!--<span aria-hidden="true">&times;</span>
+                    </button>-->
+
+                    <h3 class="modal-title text-center">Update employee</h3>
+                </div>
+                <div class="modal-body">
+                    <div class="mx-4 my-4">
+                        <div class="card">
+                            <div class="card-header text-center">
+                                employee Information
+                            </div>
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-4">Title:</div> <!-- the 2 attributes the user will see are the placeholder attribute and the id attribute-->
+                                    <div class="col-8"><input type="text" placeholder="enter title" id="TextBoxTitle" class="form-control" /></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">First:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter first name" id="TextBoxFirstname" class="form-control" /></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">Surname:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter last name" id="TextBoxLastname" class="form-control" /></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">Phone#:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter phone#" id="TextBoxPhone" class="form-control" /></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">Email:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter email address" id="TextBoxEmail" class="form-control" /></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                        <input type="button" value="Update" id="updatebutton" />
+                        <div id="status" class="text-left mt-3 mb-2"></div> <!--<div id="modalstatus" class="text-left mt-3 mb-2"></div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="lib/js/jquery.min.js"></script>
+    <script src="lib/js/bootstrap.min.js"></script>
+    <script src="js/employee.js"></script> <!-- dynamic creation-->
+</body>
+</html>

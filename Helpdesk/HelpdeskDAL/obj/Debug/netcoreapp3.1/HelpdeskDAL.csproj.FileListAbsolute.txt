@@ -1,0 +1,9 @@
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\bin\Debug\netcoreapp3.1\HelpdeskDAL.deps.json
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\bin\Debug\netcoreapp3.1\HelpdeskDAL.dll
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.AssemblyInfoInputs.cache
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.AssemblyInfo.cs
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\bin\Debug\netcoreapp3.1\HelpdeskDAL.pdb
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.csproj.CoreCompileInputs.cache
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.dll
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.pdb
+F:\$INFO-3070\CaseStudy1\HelpdeskDAL\obj\Debug\netcoreapp3.1\HelpdeskDAL.csproj.AssemblyReference.cache

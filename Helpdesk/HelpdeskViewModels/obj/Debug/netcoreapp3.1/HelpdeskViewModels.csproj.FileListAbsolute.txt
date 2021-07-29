@@ -1,0 +1,12 @@
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\bin\Debug\netcoreapp3.1\HelpdeskViewModels.deps.json
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\bin\Debug\netcoreapp3.1\HelpdeskViewModels.dll
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\bin\Debug\netcoreapp3.1\HelpdeskViewModels.pdb
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\bin\Debug\netcoreapp3.1\HelpdeskDAL.dll
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\bin\Debug\netcoreapp3.1\HelpdeskDAL.pdb
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\obj\Debug\netcoreapp3.1\HelpdeskViewModels.AssemblyInfoInputs.cache
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\obj\Debug\netcoreapp3.1\HelpdeskViewModels.AssemblyInfo.cs
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\obj\Debug\netcoreapp3.1\HelpdeskViewModels.csproj.CoreCompileInputs.cache
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\obj\Debug\netcoreapp3.1\HelpdeskViewModels.csproj.CopyComplete
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\obj\Debug\netcoreapp3.1\HelpdeskViewModels.dll
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\obj\Debug\netcoreapp3.1\HelpdeskViewModels.pdb
+F:\$INFO-3070\CaseStudy1\HelpdeskViewModels\obj\Debug\netcoreapp3.1\HelpdeskViewModels.csproj.AssemblyReference.cache
